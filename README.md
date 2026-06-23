@@ -46,8 +46,8 @@ An aspiring **Data Science and AI professional** with a solid foundation in **So
 ### 📈 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=duhithusakuni&show_icons=true&theme=visual_studio_dark" alt="Duhithu's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duhithusakuni&layout=compact&theme=visual_studio_dark" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=duhithu&show_icons=true&theme=visual_studio_dark" alt="Duhithu's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duhithu&layout=compact&theme=visual_studio_dark" alt="Top Langs" />
 </p>
 
 ---
