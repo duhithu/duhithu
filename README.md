@@ -1,4 +1,4 @@
-<!--
+
 ### Hi there I'm Duhithu Sakuni👋
 
 
@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
+<!--
 # Hi there, I'm Duhithu Sakuni! 👋
 
 An aspiring **Data Science and AI professional** with a solid foundation in **Software Engineering** and **Quality Assurance**. I bridge the gap between building robust software and developing intelligent, data-driven solutions. Currently deepening my expertise through an MSc at the University of Moratuwa.
@@ -62,3 +62,4 @@ An aspiring **Data Science and AI professional** with a solid foundation in **So
 - 📊 Kaggle: https://www.kaggle.com/duhithusakuni
 - 📧 Email: duhithus@gmail.com
 - 🌐 Portfolio: https://your-portfolio.com
+-->
