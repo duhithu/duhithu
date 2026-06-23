@@ -45,7 +45,7 @@ An aspiring **Data Science and AI professional** with a solid foundation in **So
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=duhithu&show_icons=true&hide=issues,stars&hide_rank=true&custom_title=GitHub%20Stats&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=duhithu&show_icons=true&hide=issues,stars,contribs&hide_rank=true&custom_title=GitHub%20Stats&theme=default)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=duhithu)
 
