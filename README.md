@@ -43,12 +43,14 @@ An aspiring **Data Science and AI professional** with a solid foundation in **So
 
 ---
 
-### 📈 GitHub Stats
+## 📈 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=duhithu&show_icons=true&theme=visual_studio_dark" alt="Duhithu's GitHub Stats" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=duhithu&layout=compact&theme=visual_studio_dark" alt="Top Langs" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=duhithu&show_icons=true&hide=issues,stars&theme=default)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=duhithu)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=duhithu&layout=compact)
+
 
 ---
 
