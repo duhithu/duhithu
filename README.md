@@ -51,6 +51,14 @@ An aspiring **Data Science and AI professional** with a solid foundation in **So
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=duhithu&layout=compact)
 
+[![Duhithu's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=duhithu&theme=react-dark)](https://github.com/duhithu/github-readme-activity-graph)
+
+ ![Views](https://komarev.com/ghvc/?username=duhithu&color=blue&style=flat-square)
+
+ ### 🏆 GitHub Trophies
+
+[![github contribution trophies](https://github-profile-trophy.vercel.allof.dev/?username=duhithu&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 ---
 
