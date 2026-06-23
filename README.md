@@ -53,22 +53,12 @@ An aspiring **Data Science and AI professional** with a solid foundation in **So
 
 [![Duhithu's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=duhithu&theme=react-dark)](https://github.com/duhithu/github-readme-activity-graph)
 
-### 🏆 GitHub Trophies
-<!-- Using an official community backup mirror that bypasses the 503 server error -->
-[![github contribution trophies](https://github-profile-trophy.vercel.app/?username=duhithu&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
-
 ---
 
-### 🛸 Profile Views
-<!-- Using a highly stable, alternative badge counter -->
-![Views](https://hits.seeyoufarm.com/api/count/graph/badge.svg?url=https%3A%2F%2Fgithub.com%2Fduhithu&title=Profile+Views&edge_flat=false)
+## 🌐 Connect With Me
 
----
-
-### 🌐 Connect with Me
-
-Let's collaborate or talk all things AI, data, and software quality!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/duhithu-sakuni)
-[![Kiggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/duhithusakuni)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:duhithus@gmail.com)
+- 🔗 LinkedIn: https://linkedin.com/in/duhithu-sakuni
+- 💻 GitHub: https://github.com/duhithu
+- 📊 Kaggle: https://www.kaggle.com/duhithusakuni
+- 📧 Email: duhithus@gmail.com
+- 🌐 Portfolio: https://your-portfolio.com
