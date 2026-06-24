@@ -45,7 +45,7 @@ An aspiring **Data Science and AI professional** with a solid foundation in **So
 
 - 🔗 LinkedIn: https://linkedin.com/in/duhithu-sakuni
 - 💻 GitHub: https://github.com/duhithu
-- 📊 Kaggle: https://www.kaggle.com/duhithusakuni
+- 📊 Kaggle: https://www.kaggle.com/duhithuimbulana
 - 📧 Email: duhithus@gmail.com
 - 🌐 Portfolio: https://your-portfolio.com
 -->
