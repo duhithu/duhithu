@@ -2,20 +2,6 @@
 ### Hi there I'm Duhithu Sakuni👋
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=duhithu&show_icons=true&hide=issues,stars,contribs&hide_rank=true&custom_title=GitHub%20Stats&theme=default)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=duhithu)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=duhithu&layout=compact)
-
-[![Duhithu's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=duhithu&theme=react-dark)](https://github.com/duhithu/github-readme-activity-graph)
-
-![Profile Views](https://komarev.com/ghpvc/?username=duhithu&color=blue)
-
----
-
 <!--
 # Hi there, I'm Duhithu Sakuni! 👋
 
