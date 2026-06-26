@@ -12,7 +12,7 @@
 
 [![Duhithu's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=duhithu&theme=react-dark)](https://github.com/duhithu/github-readme-activity-graph)
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=duhithu&color=blue)
 
 ---
 
