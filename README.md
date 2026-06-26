@@ -6,6 +6,14 @@
 
 An aspiring **Data Science and AI professional** with a solid foundation in **Software Engineering** and **Quality Assurance**. I bridge the gap between building robust software and developing intelligent, data-driven solutions. Currently deepening my expertise through an MSc at the University of Moratuwa.
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=duhithu&show_icons=true&hide=issues,stars,contribs&hide_rank=true&custom_title=GitHub%20Stats&theme=default)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=duhithu)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=duhithu&layout=compact)
+
+[![Duhithu's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=duhithu&theme=react-dark)](https://github.com/duhithu/github-readme-activity-graph)
+
 ---
 
 ### 🚀 About Me
