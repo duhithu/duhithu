@@ -1,8 +1,6 @@
 
 ### Hi there I'm Duhithu Sakuni👋
 
----
-
 <!--
 # Hi there, I'm Duhithu Sakuni! 👋
 
