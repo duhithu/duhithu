@@ -5,7 +5,7 @@
 
 ![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=duhithu&layout=compact)
 
-![GitHub Streak](https://nice-readme.vercel.app/streak-stats?user=duhithu)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=duhithu)
 <!--
 # Hi there, I'm Duhithu Sakuni! 👋
 
