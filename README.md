@@ -1,12 +1,12 @@
 
 ### Hi there I'm Duhithu Sakuni👋
-
+<!--
 ![GitHub Stats](https://github-stats-extended.vercel.app/api?username=duhithu&show_icons=true&hide=issues,stars,contribs&hide_rank=true&custom_title=GitHub%20Stats&theme=default)
 
 ![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=duhithu&layout=compact)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=duhithu)
-<!--
+
 # Hi there, I'm Duhithu Sakuni! 👋
 
 An aspiring **Data Science and AI professional** with a solid foundation in **Software Engineering** and **Quality Assurance**. I bridge the gap between building robust software and developing intelligent, data-driven solutions. Currently deepening my expertise through an MSc at the University of Moratuwa.
